@@ -1,5 +1,5 @@
-# Name: S.Tarun Managan
-# PRN: 22070123118
+# Name: Rajat Pandey
+# PRN: 2207012343
 
 # Recursion
 The process in which a function calls itself directly or indirectly is called recursion and the corresponding function is called a recursive function. 
