@@ -20,6 +20,6 @@ int main()
 }
 
 /*OUTPUT
-Enter a string: Tarun
-nuraT
+Enter a string: Rajat
+tajaR
 */
